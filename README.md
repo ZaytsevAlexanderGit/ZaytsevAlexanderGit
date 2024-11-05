@@ -1,6 +1,6 @@
 <div id="name" align="center">
   <h1>Добрый день. Я Александр Зайцев.</h1>
-   Я <strong>Frontend developer</strong> и активно ищу работу :<a href="https://hh.ru/resume/c0569b10ff07c4b2a90039ed1f7a6e31565077" target="_blank">Резюме.</a> <br/>
+   Я <strong>Frontend developer</strong> и активно ищу работу : [Резюме] (https://hh.ru/resume/c0569b10ff07c4b2a90039ed1f7a6e31565077)
   
 <div id="badges" align="center">
   <a href="[https://t.me/gvozdenkov](https://t.me/ZaytsevAlexander1)">
