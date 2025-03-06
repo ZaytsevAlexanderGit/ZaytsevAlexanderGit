@@ -53,4 +53,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg" title="Jira" alt="jira" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/notion/notion-original.svg" title="Notion" alt="notion" width="40" height="40"/>
+  <img strc="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="Motion" alt="notion" width="40" height="40"/>
 </div>
