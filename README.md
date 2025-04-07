@@ -56,5 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="Motion" alt="notion" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" title="MUI" alt="notion" width="40" height="40"/>
 </div>
+    
 ## Stats
+
 [![Top Langs](https://www.codewars.com/users/ZaytsevAlexanderGit/badges/large)](https://www.codewars.com/users/ZaytsevAlexanderGit)
